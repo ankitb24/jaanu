@@ -1,5 +1,4 @@
-[ForYou.html](https://github.com/user-attachments/files/27319200/ForYou.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/27319200/ForYou.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
